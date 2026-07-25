@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YZ4J62AJGG.ai.triplist.app",
+        "paths": ["/trip/*"]
+      }
+    ]
+  }
+}
